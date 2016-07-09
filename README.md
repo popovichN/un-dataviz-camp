@@ -1,7 +1,7 @@
 # Dataviz Camp @ the UN | 9 July 2016
 ##### Links to talk + featured projects
 
-Slides: [Google Slides presentation](https://docs.google.com/presentation/d/163Nh4Hbc109HoSVtCMKd5pwkKsTxPpPWihFz29hptzM/edit?usp=sharing)
+Slides from presentation [can be found here](https://docs.google.com/presentation/d/163Nh4Hbc109HoSVtCMKd5pwkKsTxPpPWihFz29hptzM/edit?usp=sharing)
 
 Links:
 
