@@ -1,5 +1,5 @@
 # Dataviz Camp @ the UN | 9 July 2016
-##### Links to talk + featured projects
+##### Links to "All about you: reflecting identity in dataviz" talk + featured projects
 
 Slides from presentation [can be found here](https://docs.google.com/presentation/d/163Nh4Hbc109HoSVtCMKd5pwkKsTxPpPWihFz29hptzM/edit?usp=sharing)
 
